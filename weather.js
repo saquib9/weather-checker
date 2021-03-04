@@ -1,4 +1,4 @@
-const apiKey = 'b6cc4392568a3586e950307c86a22bbd';
+const apiKey = '94a1c90541dd5719b6e088e366877fae';
 const apiBase = 'https://api.openweathermap.org/data/2.5/weather';
 
 document.getElementById('search_button').addEventListener('click', () => {
